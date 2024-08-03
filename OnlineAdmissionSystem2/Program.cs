@@ -1,19 +1,7 @@
-using OnlineAdmissionSystem2.Data;
-using OnlineAdmissionSystem2.Mappings;
-using OnlineAdmissionSystem2.Models;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddAutoMapper(config =>
-{
-    //config.AddProfile<UserProfile>();
-    //map data entity to view model when required
-    config.CreateMap<UserDataModel, NewUserViewModel>();
-});
-
-builder.Services.AddDbContext<AdmissionDbContext>();
 
 var app = builder.Build();
 

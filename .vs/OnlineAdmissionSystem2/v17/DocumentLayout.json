@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +15,16 @@
       "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\data\\admissiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\data\\admissiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\mappings\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\mappings\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\models\\newuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\models\\newuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|solutionrelative:onlineadmissionsystem2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC2BAC83-CC9C-47E6-B3AA-9FE003340D55}|OnlineAdmissionSystem2\\OnlineAdmissionSystem2.csproj|c:\\users\\sadi\\desktop\\workspace\\online admission system\\src\\onlineadmissionsystem2\\onlineadmissionsystem2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -70,19 +54,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240803035514_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs",
-              "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs",
-              "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs",
-              "RelativeToolTip": "OnlineAdmissionSystem2\\Migrations\\20240803035514_Init.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T03:55:14.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\appsettings.json",
@@ -91,38 +62,24 @@
               "RelativeToolTip": "OnlineAdmissionSystem2\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T03:47:51.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T03:47:51.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdmissionDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Data\\AdmissionDbContext.cs",
-              "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Data\\AdmissionDbContext.cs",
-              "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Data\\AdmissionDbContext.cs",
-              "RelativeToolTip": "OnlineAdmissionSystem2\\Data\\AdmissionDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAACBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T03:40:47.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Program.cs",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Program.cs",
               "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Program.cs",
               "RelativeToolTip": "OnlineAdmissionSystem2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T02:46:34.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\wwwroot\\css\\site.css",
@@ -130,77 +87,50 @@
               "RelativeToolTip": "OnlineAdmissionSystem2\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-27T09:54:38.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T09:54:38.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\User\\Signup.cshtml",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Views\\User\\Signup.cshtml",
               "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\User\\Signup.cshtml",
               "RelativeToolTip": "OnlineAdmissionSystem2\\Views\\User\\Signup.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-27T09:53:41.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "OnlineAdmissionSystem2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACwAAAA9AAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-27T09:51:24.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "OnlineAdmissionSystem2\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T09:31:32.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserDataModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Mappings\\UserDataModel.cs",
-              "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Mappings\\UserDataModel.cs",
-              "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Mappings\\UserDataModel.cs",
-              "RelativeToolTip": "OnlineAdmissionSystem2\\Mappings\\UserDataModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T02:50:13.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Models\\NewUserViewModel.cs",
-              "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Models\\NewUserViewModel.cs",
-              "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Models\\NewUserViewModel.cs",
-              "RelativeToolTip": "OnlineAdmissionSystem2\\Models\\NewUserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T11:47:36.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Views\\User\\Index.cshtml",
@@ -208,25 +138,24 @@
               "RelativeToolTip": "OnlineAdmissionSystem2\\Views\\User\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T09:46:29.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T09:46:29.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Controllers\\UserController.cs",
               "RelativeToolTip": "OnlineAdmissionSystem2\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T09:44:42.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Models\\ErrorViewModel.cs",
@@ -234,12 +163,11 @@
               "RelativeToolTip": "OnlineAdmissionSystem2\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:38:53.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T09:38:53.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Sadi\\Desktop\\workspace\\Online Admission System\\src\\OnlineAdmissionSystem2\\OnlineAdmissionSystem2\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "OnlineAdmissionSystem2\\Views\\Home\\Privacy.cshtml",
@@ -247,8 +175,7 @@
               "RelativeToolTip": "OnlineAdmissionSystem2\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-27T09:36:22.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T09:36:22.763Z"
             }
           ]
         }

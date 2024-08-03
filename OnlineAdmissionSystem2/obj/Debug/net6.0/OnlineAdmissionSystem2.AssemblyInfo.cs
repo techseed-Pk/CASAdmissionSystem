@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineAdmissionSystem2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75bf6bb8ab60a75c8f46440caaaded39da560ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineAdmissionSystem2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineAdmissionSystem2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

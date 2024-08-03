@@ -1,35 +1,24 @@
-﻿@model NewUserViewModel
-
-<main class="form-signin text-center">
-    <form asp-action="Signup">
+﻿<main class="form-signin text-center">
+    <form>
         <img class="mb-4" src="http://placeholder.com/100" alt="">
         <h1 class="h3 mb-3 fw-normal">Create an account</h1>
 
-        @* <div class="text-danger text-start" asp-validation-summary="All"></div> *@
-
         <div class="form-floating">
-            <input asp-for="Name" type="text" class="form-control" id="floatingName" placeholder="Your name">
+            <input type="text" class="form-control" id="floatingName" placeholder="Your name">
             <label for="floatingName">Name</label>
-            <span class="d-block text-start text-danger my-2" asp-validation-for="Name"></span>
-            </span>
             <div class="form-floating">
-                <input asp-for="Email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
                 <label for="floatingInput">Email address</label>
-                <span class="d-block text-start text-danger my-2" asp-validation-for="Email"></span>
-
             </div>
             <div class="form-floating">
-                <input asp-for="Password" type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
                 <label for="floatingPassword">Password</label>
-                <span class="d-block text-start text-danger my-2" asp-validation-for="Password"></span>
             </div>
             <div class="form-floating">
-                <input asp-for="ConfirmPassword" type="password" class="form-control" id="floatingPasswordConfirm" placeholder="Confirm Password">
+                <input type="password" class="form-control" id="floatingPasswordConfirm" placeholder="Confirm Password">
                 <label for="floatingPasswordConfirm">Confirm Password</label>
-                <span class="d-block text-start text-danger my-2" asp-validation-for="ConfirmPassword"></span>
             </div>
-            <p><a asp-controller="User" asp-action="Login">Have an account already? Login</a></p>
-
+            
             <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
 
     </form>
