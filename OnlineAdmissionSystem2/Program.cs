@@ -1,7 +1,10 @@
+using OnlineAdmissionSystem2.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<AdmissionDbContext>();
 
 var app = builder.Build();
 
