@@ -22,33 +22,6 @@ namespace OnlineAdmissionSystem2.Controllers
             return View();
         }
 
-        public IActionResult TestCertificate()
-        {
-            // add a certificate to a user
-            var user = _admissionDbContext
-                .Users
-                .Include(user => user.Certificates)
-                .FirstOrDefault();
-
-            var certificate = new Certificate()
-            {
-                Name = "C# Course",
-                Issuer = "CAS",
-            };
-
-            user.Certificates.Add(certificate);
-
-            _admissionDbContext.SaveChanges();
-
-            return Redirect("/Home");
-
-        }
-
-        public IActionResult Profile(int Id, string type = "")
-        {
-            return View();
-        }
-
         public IActionResult Signup() {
             SignupViewModel model = new SignupViewModel();
 
@@ -60,14 +33,16 @@ namespace OnlineAdmissionSystem2.Controllers
         {
             if (ModelState.IsValid)
             {
+                //save the file to a destination
+
                 var destinationFolder = Path.Combine(_webHostEnvironment.WebRootPath, "myfiles");
 
+                // make sure directory exists or otherwise create it
                 Directory.CreateDirectory(destinationFolder);
 
-                //save the file to somewhere
-                var filePath = Path.Combine(destinationFolder, model.PhotoFile.FileName);
+                var newFilePath = Path.Combine(destinationFolder, model.PhotoFile.FileName);
 
-                using (var stream = new FileStream(filePath, FileMode.Create))
+                using (var stream = new FileStream(newFilePath, FileMode.Create))
                 {
                     model.PhotoFile.CopyTo(stream);
                 }
