@@ -1,0 +1,21 @@
+﻿@using OnlineAdmissionSystem2.Data.Entities
+
+@model List<Certificate>
+
+
+<table class="table table-bordered">
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Issuer</td>
+    </tr>
+    @foreach (var certificate in Model)
+    {
+        <tr>
+            <td>@certificate.Id</td>
+            <td>@certificate.Name</td>
+            <td>@certificate.Issuer</td>
+        </tr>
+    }
+</table>
+

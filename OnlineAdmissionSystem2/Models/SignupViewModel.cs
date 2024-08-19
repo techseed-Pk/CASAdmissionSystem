@@ -17,6 +17,7 @@ namespace OnlineAdmissionSystem2.Models
 
         [Compare("Password")]
         public string ConfirmPassword { get; set; }
+        public IFormFile PhotoFile { get; set; }
 
     }
 }
